@@ -221,7 +221,7 @@ This wasn't a straight path. Check out [PROJECT_JOURNEY.md](PROJECT_JOURNEY.md) 
 - **Threading Chaos**: Async event loops and threads fighting each other
 - **Debugging in the Dark**: Couldn't see what was being intercepted
 
-**Result**: After "so many iterations" (my words), it works! 🎉
+**Result**: After "so many iterations" (my words), it works!
 
 ---
 
